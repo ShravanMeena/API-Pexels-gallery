@@ -2,7 +2,7 @@
 
 ## Visit website
 
-[Portfolio](https://www.https://shravanmeena.netlify.app/).
+[Portfolio](https://shravanmeena.netlify.app/)
 
 ## Tech Stack
 
