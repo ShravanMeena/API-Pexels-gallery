@@ -1,4 +1,4 @@
-![](https://github.com/ShravanMeena/Notes-Taking-App-TO-DO/blob/main/src/assets/demo_.png?raw=true)
+![](https://github.com/ShravanMeena/API-Pexels-gallery/blob/main/src/assets/demo_.png?raw=true)
 
 ## Visit website
 
@@ -18,7 +18,7 @@ If you find a bug or want o add a new feature, browse the [open issues](https://
 
 **0.** Wait for the Issue to be assigned to you before you start working on it.
 
-**1.** Fork [this](https://github.com/ShravanMeena/Notes-Taking-App-TO-DO) repository.
+**1.** Fork [this](https://github.com/ShravanMeena/API-Pexels-gallery) repository.
 
 **2.** Clone your forked copy of the project.
 
