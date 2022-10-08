@@ -1,4 +1,4 @@
-![](https://github.com/ShravanMeena/API-Pexels-gallery/blob/main/src/assets/demo_.png?raw=true)
+![](https://github.com/ShravanMeena/API-Pexels-gallery/blob/main/src/assets/demo_2.png?raw=true)
 
 ## Visit website
 
